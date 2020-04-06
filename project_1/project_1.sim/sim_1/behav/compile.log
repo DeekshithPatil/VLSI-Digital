@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "I:/VLSIDigital/project_1/project_1.srcs/sources_1/new/orr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module orr
+INFO: [VRFC 10-2263] Analyzing Verilog file "I:/VLSIDigital/project_1/project_1.srcs/sim_1/new/orr_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module orr_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "I:/VLSIDigital/project_1/project_1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

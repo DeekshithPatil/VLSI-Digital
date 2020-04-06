@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "I:/VLSIDigital/msjk/msjk.srcs/sources_1/new/msjk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module msjk
+INFO: [VRFC 10-311] analyzing module msjk_tb
+INFO: [VRFC 10-311] analyzing module jkff
+INFO: [VRFC 10-311] analyzing module jkff_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "I:/VLSIDigital/msjk/msjk.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

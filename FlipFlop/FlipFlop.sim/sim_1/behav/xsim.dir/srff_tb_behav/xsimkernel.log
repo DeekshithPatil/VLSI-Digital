@@ -1,0 +1,7 @@
+Running: xsim.dir/srff_tb_behav/xsimk.exe -simmode gui -wdb srff_tb_behav.wdb -simrunnum 0 -socket 58266
+Design successfully loaded
+Design Loading Memory Usage: 23988 KB (Peak: 23988 KB)
+Design Loading CPU Usage: 249 ms
+Simulation completed
+Simulation Memory Usage: 24376 KB (Peak: 24376 KB)
+Simulation CPU Usage: 296 ms

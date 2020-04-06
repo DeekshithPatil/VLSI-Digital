@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "I:/VLSIDigital/mod4syn/mod4syn.srcs/sources_1/new/jkcnt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnt_tb
+INFO: [VRFC 10-311] analyzing module cnt
+ERROR: [VRFC 10-1280] procedural assignment to a non-register q0 is not permitted, left-hand side should be reg/integer/time/genvar [I:/VLSIDigital/mod4syn/mod4syn.srcs/sources_1/new/jkcnt.v:41]
+ERROR: [VRFC 10-1280] procedural assignment to a non-register q0 is not permitted, left-hand side should be reg/integer/time/genvar [I:/VLSIDigital/mod4syn/mod4syn.srcs/sources_1/new/jkcnt.v:41]
+ERROR: [VRFC 10-1280] procedural assignment to a non-register q1 is not permitted, left-hand side should be reg/integer/time/genvar [I:/VLSIDigital/mod4syn/mod4syn.srcs/sources_1/new/jkcnt.v:42]
+ERROR: [VRFC 10-1280] procedural assignment to a non-register q1 is not permitted, left-hand side should be reg/integer/time/genvar [I:/VLSIDigital/mod4syn/mod4syn.srcs/sources_1/new/jkcnt.v:42]
+ERROR: [VRFC 10-1040] module cnt ignored due to previous errors [I:/VLSIDigital/mod4syn/mod4syn.srcs/sources_1/new/jkcnt.v:37]
+INFO: [VRFC 10-311] analyzing module jkff
+ERROR: [VRFC 10-1040] module jkff ignored due to previous errors [I:/VLSIDigital/mod4syn/mod4syn.srcs/sources_1/new/jkcnt.v:49]
